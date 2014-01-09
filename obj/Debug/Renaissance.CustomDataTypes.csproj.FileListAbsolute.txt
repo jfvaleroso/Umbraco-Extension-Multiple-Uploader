@@ -1,0 +1,29 @@
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\businesslogic.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\cms.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\controls.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\interfaces.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\umbraco.DataLayer.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\umbraco.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\umbraco.editorControls.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\businesslogic.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\cms.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\controls.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\interfaces.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\umbraco.DataLayer.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\umbraco.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Debug\umbraco.editorControls.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\bin\Debug\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\bin\Debug\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\bin\Debug\umbraco.DataLayer.dll
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\obj\Debug\Renaissance.CustomDataTypes.pdb

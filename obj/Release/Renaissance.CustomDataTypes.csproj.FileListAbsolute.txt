@@ -1,0 +1,18 @@
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\businesslogic.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\cms.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\controls.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\interfaces.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\umbraco.DataLayer.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\umbraco.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\bin\Release\umbraco.editorControls.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Release\Renaissance.CustomDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Release\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Documents\Visual Studio 2010\Projects\Renaissance\Renaissance.CustomDataTypes\obj\Release\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\bin\Release\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\bin\Release\Renaissance.CustomDataTypes.pdb
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\bin\Release\umbraco.DataLayer.dll
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\obj\Release\Renaissance.CustomDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\obj\Release\Renaissance.CustomDataTypes.dll
+C:\Users\jfvaleroso.SMART\Desktop\Renaissance.CustomDataTypes\obj\Release\Renaissance.CustomDataTypes.pdb
